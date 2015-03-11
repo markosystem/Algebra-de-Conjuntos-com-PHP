@@ -1,0 +1,2 @@
+# Algebra-de-Conjuntos-com-PHP
+Considerando uma linguagem de programação que forneça suporte a conjuntos e operações sobre eles, crie um programa que leia conjuntos em arquivos texto (um elemento do conjunto em cada linha) e gere a saída também em um arquivo texto (também um elemento em cada linha). O programa deve considerar e demonstrar a utilização das operações e propriedades vistas até o momento (e.g. pertiência, contingência, união e intersecção).
