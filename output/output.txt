@@ -1,0 +1,1 @@
+O Conjunto file1.txt é SubConjunto próprio do Conjunto universo.txt
